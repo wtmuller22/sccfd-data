@@ -1,0 +1,16 @@
+{
+    "updates": [
+        {
+            "title": "COVID Status",
+            "message": "stuff here <hr/>",
+            "link": "https://google.com",
+            "date": "June 12, 2020"
+        },
+        {
+            "title": "COVID Status",
+            "message": "stuff here <hr/>",
+            "link": "https://google.com",
+            "date": "June 12, 2020"
+        }
+    ]
+}
