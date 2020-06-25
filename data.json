@@ -1,18 +1,19 @@
 {
     "updates": [
         {
-            "id": 123,
-            "title": "COVID Status",
-            "message": "stuff here <hr/>",
-            "link": "https://google.com",
+            "title": "COVID-19",
+            "message": "Due to COVID-19 pandemic restrictions, we are working again (hooray!), but with limited services. <Text style={{textDecorationLine: 'underline'}}>Our plan now is to gradually reopen</Text>. More spacing between appointments gives us the time to keep everyone safe. This, however, requires an overhaul (change of date & time) of <Text style={{fontWeight: '700'}}>all</Text> prior scheduled appointments. If you have a prior appointment, plaese expect us to contact you two weeks in advance to confirm the changed date & time.{"\n"}{"\n"}That said, please call us right away if you have an urgent dnetal need. We are always ready for phone calls to 610-345-0267, emails to SCCFD08@gmail.com, and through this app's Virtual Forms.",
             "date": "June 12, 2020"
         },
         {
-            "id": 987,
-            "title": "Penny is the better dog",
-            "message": "It's okay i still love leo",
-            "link": "https://google.com",
-            "date": "June 12, 2020"
+            "title": "This is a test for the second post",
+            "message": "wjhfoasflsdafnokdasfoasofna ofh dhoas aosdf adisf ioshfaoid hfoshfaf di fisda foidhfisd idfsd hfisdhf oas do oi hoidifh afap as fpd p dpfa sp.",
+            "date": "June 25, 2020"
+        }, 
+        {
+            "title": "And another post to show the variability",
+            "message": "Small description"
+            "date": "August 12, 2020"
         }
     ]
 }
