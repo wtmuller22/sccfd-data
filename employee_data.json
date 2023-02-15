@@ -4,6 +4,26 @@
       "name": "Margaret - Patient Coordinator",
       "bio": "Hello my name Margaret. I've been in the dental field since 2006. I am married and I have three daughters and will soon have my second grandchild. We love to travel and spend time at the shore. We have pets that keep us busy in our spare time (fish, dog, cats, guinea pigs). I am so happy to have found this office.",
       "img": "Margaret.png"
+    },
+    {
+      "name": "Patty - Hygienist",
+      "bio": "Hi, my name is Patty Wilson and I am a registered Dental Hygienist. I graduated with an Associate Degree in Science from Harcum College in 1996. I also received my Bachelor of Science degree in 2003 from Pennsylvania College of Technology. I graduated from Cardinal O’Hara High School in 1986 and from Manor Junior College in 1989 with an Associate in Science Degree in Expanded Functions Dental Assisting (EFDA). I have been in the field of dentistry for 24 years. I grew up in Delaware County and have been a resident of Chester County since 2003. I live in Oxford with my daughter, Stephanie, and son, Jack. I enjoy going to my children’s sporting, musical, and scouting events. I also enjoy traveling with my family to the NJ Shore, Disney World, and many other places. I am a very proud parent of two terrific kids. I have been working with Dr. Muller and his staff since 2007. I enjoy the people that I work with and the patients that I see. I am very happy with my career choice and really enjoy helping people and educating them about their oral health needs.",
+      "img": "Patty.png"
+    },
+    {
+      "name": "Amy - Hygienist",
+      "bio": "Hello, my name is Amy Grasty. I am a native to southern Chester County. I graduated from Harcum College with an associates degree in Dental Hygiene. I have been working in dentistry for over twenty years now. I have worked with Dr. Muller since spring of 2013 as a hygienist. I became full time with Dr. Muller's office in the spring of 2014. When I am not at the office, I enjoy attending my son's baseball games.",
+      "img": "Amy.png"
+    },
+    {
+      "name": "Karen - Expanded Functions Dental Assistant",
+      "bio": "I have lived in the West Grove and surrounding area all my life. I’ve been in the field of dentistry for thirteen years, ten of them as an EFDA. I love what I do and find true pleasure in making others smile. I’m always dancing and singing (even though I’m not that good) in the office. When I’m not in the office, I enjoy spending time with my family, especially my two beautiful sons who keep me stepping. In what free time I have, I like to read, go for pedicures or just relax. I enjoy being goofy and having fun!",
+      "img": "Karen.png"
+    },
+    {
+      "name": "Kelly - Dental Assistant",
+      "bio": "I'm originally from Bucks County. I moved to Lincoln University about 6 years ago and love it here very much. I received my training at Dental Careers Institute and I really enjoy working as a dental assistant at Dr. Muller's office! I have two sons who keep me very happily busy with their sports and after school activities.",
+      "img": "Kelly.png"
     }
   ]
 }
